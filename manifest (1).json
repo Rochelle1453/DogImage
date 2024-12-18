@@ -1,0 +1,16 @@
+{
+    "name": "Random Dog Image",
+    "short_name": "Dog Image",
+    "icons": [
+      {
+        "src": "icon.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFF6E9",
+    "theme_color": "#FFF6E9",
+    "id": "/index.html"
+  }
